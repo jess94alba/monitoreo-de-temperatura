@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rjqR04WPsJGLDYYXXLVy2z/x87OJDDZ6xuNtAYd9/LE=",
+  "Source": "monitoreoTemperatura",
+  "BasePath": "_content/monitoreoTemperatura",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
